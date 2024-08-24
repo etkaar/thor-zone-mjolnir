@@ -1,5 +1,11 @@
 # THOR ZONE MJOLNIR
 
+## Case
+
+### Magnets
+
+There are at least two different versions of the Thor Zone Mjolnir case. An early version only has four (left, top, right, bottom) magnets on the side plates, a later one has (I believe) six on the top and bottom plates and eight on the side plates.
+
 ## AIO
 
 I can confirm that following All-in-One (AIO) water coolers will fit the case:
@@ -18,7 +24,9 @@ The 380 mm long tubes are hard to install, so I replaced them with custom ones:
 
 Replacement itself is a simple task, but filling the AIO without leaving to much air into it can be a hard. I do not recommend stiff tubes for this small case, as they tend to kink once the system gets warm. I therefore used the rubber-like Tygon® E-3603 with 6.4 mm inner and 9.6 outer diameter. This tube is also available with an outer diameter of 12.7 mm. It is tight even without zip ties.
 
-I do **not recommend** using colors without prior testing. If they stain all your hard work is for nothing.
+I do **not** recommend using colors without prior testing. If they stain all your hard work is for nothing.
+
+⚠️ **You have to absolutely make sure that the PVC tubes do not touch the hot radiator or sharp or pointed parts of the case.**
 
 ## Graphics Card
 
